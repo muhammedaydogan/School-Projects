@@ -1,0 +1,4 @@
+create -n bbm101.txt -t Basic concepts of computer programming. Problem formalization and developing algorithms. File operations. Pointers.
+print -n bbm101.txt -cs
+Text: Basic concepts of computer programming. Problem formalization and developing algorithms. File operations. Pointers.
+Number Of Sentences : 4

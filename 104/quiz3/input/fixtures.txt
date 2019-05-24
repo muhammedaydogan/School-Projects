@@ -1,0 +1,560 @@
+F	Galatasaray	Rizespor	2 : 2	
+F	Fenerbahce	Yeni Malatyaspor	3 : 2	
+F	Akhisarspor	Trabzonspor	1 : 3	
+V	Besiktas	Canakkale	3 : 0	
+F	Galatasaray	Trabzonspor	3 : 1	
+B	Afyon Belediye	Banvit	90 : 96	
+F	Besiktas	Akhisarspor	2 : 1	
+F	Kayserispor	Ankaragucu	0 : 2	
+B	Besiktas	Sakarya BB	77 : 65	
+V	Nilufer Bld.	Fenerbahce	0 : 3	
+F	Bursaspor	Erzurum BB	2 : 1	
+B	Sakarya BB	Tofas	69 : 73	
+V	Galatasaray	Eczacibasi	2 : 3	
+V	Canakkale	Eczacibasi	0 : 3	
+B	Afyon Belediye	Tofas	96 : 85	
+V	Thy	Nilufer Bld.	3 : 0	
+V	Nilufer Bld.	Thy	3 : 0	
+B	Afyon Belediye	Gaziantep	71 : 73
+B	Darussafaka	Pinar Karsiyaka	93 : 78	
+B	Sakarya BB	Turk Telekom	55 : 65	
+F	Goztepe	Besiktas	2 : 0	
+B	Turk Telekom	Gaziantep	83 : 67	
+F	Basaksehir	Konyaspor	2 : 0	
+F	Bursaspor	Ankaragucu	1 : 0	
+B	Anadolu Efes	Banvit	93 : 85	
+F	Kasimpasa	Alanyaspor	1 : 2	
+F	Erzurum BB	Rizespor	0 : 1	
+V	Eczacibasi	Nilufer Bld.	3 : 1	
+F	Kayserispor	Galatasaray	0 : 3	
+F	Kasimpasa	Antalyaspor	1 : 2	
+B	Anadolu Efes	Turk Telekom	87 : 59	
+F	Basaksehir	Kayserispor	1 : 0	
+F	Yeni Malatyaspor	Trabzonspor	5 : 0	
+V	Fenerbahce	Besiktas	3 : 0	
+F	Besiktas	Sivasspor	1 : 2	
+F	Kayserispor	Trabzonspor	0 : 2	
+F	Basaksehir	Akhisarspor	3 : 1	
+V	Nilufer Bld.	Ankara Karayollari	3 : 2	
+F	Yeni Malatyaspor	Akhisarspor	1 : 1	
+B	Buyukcekmece	Afyon Belediye	84 : 94	
+B	Besiktas	Afyon Belediye	80 : 75	
+V	Nilufer Bld.	Aydin Bld. Spor	3 : 0	
+V	Galatasaray	Beylikduzu	3 : 1	
+V	Galatasaray	Vakifbank	0 : 3	
+B	Banvit	Buyukcekmece	59 : 81	
+B	Tofas	Pinar Karsiyaka	93 : 91
+V	Canakkale	Vakifbank	0 : 3	
+B	Anadolu Efes	Pinar Karsiyaka	104 : 76	
+V	Fenerbahce	Halkbank	3 : 0	
+F	Fenerbahce	Rizespor	3 : 2	
+F	Konyaspor	Kasimpasa	3 : 2	
+V	Besiktas	Aydin Bld. Spor	3 : 0	
+F	Konyaspor	Basaksehir	0 : 1	
+B	Galatasaray	Fenerbahce	84 : 74	
+F	Rizespor	Konyaspor	1 : 1	
+B	Besiktas	Pinar Karsiyaka	61 : 57	
+B	Besiktas	Gaziantep	63 : 69	
+F	Rizespor	Yeni Malatyaspor	3 : 0	
+B	Tofas	Galatasaray	97 : 82	
+V	Fenerbahce	Galatasaray	3 : 0	
+F	Basaksehir	Erzurum BB	1 : 1	
+V	Ankara Karayollari	Galatasaray	3 : 1	
+F	Ankaragucu	Antalyaspor	0 : 1	
+F	Kasimpasa	Akhisarspor	5 : 0	
+V	Canakkale	Nilufer Bld.	1 : 3	
+B	Afyon Belediye	Besiktas	79 : 82	
+F	Erzurum BB	Antalyaspor	1 : 0	
+F	Kayserispor	Goztepe	2 : 1	
+V	Thy	Halkbank	3 : 1	
+F	Erzurum BB	Kayserispor	1 : 1	
+B	Tofas	Fenerbahce	69 : 74	
+F	Ankaragucu	Erzurum BB	2 : 1	
+F	Goztepe	Yeni Malatyaspor	1 : 3	
+F	Erzurum BB	Basaksehir	0 : 1	
+V	Ankara Karayollari	Thy	1 : 3	
+F	Sivasspor	Antalyaspor	1 : 2	
+V	Ankara Karayollari	Canakkale	3 : 2	
+B	Fenerbahce	Istanbul BB	93 : 70	
+B	Tofas	Anadolu Efes	81 : 93	
+V	Fenerbahce	Ankara Karayollari	3 : 0	
+V	Aydin Bld. Spor	Galatasaray	1 : 3	
+F	Goztepe	Akhisarspor	0 : 1	
+B	Besiktas	Darussafaka	81 : 72	
+F	Konyaspor	Yeni Malatyaspor	1 : 1	
+B	Turk Telekom	Bahcesehir Kol.	93 : 86	
+B	Istanbul BB	Sakarya BB	117 : 72	
+V	Aydin Bld. Spor	Beylikduzu	2 : 3	
+B	Fenerbahce	Tofas	89 : 56	
+B	Istanbul BB	Turk Telekom	82 : 89	
+V	Thy	Aydin Bld. Spor	3 : 1	
+V	Vakifbank	Thy	3 : 1	
+B	Buyukcekmece	Fenerbahce	69 : 98	
+F	Antalyaspor	Sivasspor	2 : 1	
+F	Konyaspor	Besiktas	2 : 2	
+B	Istanbul BB	Pinar Karsiyaka	84 : 89	
+F	Ankaragucu	Besiktas	1 : 4	
+F	Sivasspor	Erzurum BB	2 : 2	
+F	Ankaragucu	Bursaspor	0 : 0	
+B	Sakarya BB	Anadolu Efes	62 : 99	
+V	Beylikduzu	Galatasaray	2 : 3	
+F	Goztepe	Kasimpasa	0 : 0	
+F	Fenerbahce	Konyaspor	1 : 1	
+V	Halkbank	Vakifbank	0 : 3	
+B	Sakarya BB	Galatasaray	56 : 89	
+B	Galatasaray	Pinar Karsiyaka	81 : 71	
+F	Erzurum BB	Trabzonspor	0 : 1	
+F	Yeni Malatyaspor	Fenerbahce	1 : 0	
+V	Eczacibasi	Galatasaray	3 : 1	
+B	Darussafaka	Anadolu Efes	86 : 95
+F	Alanyaspor	Kasimpasa	3 : 0	
+V	Galatasaray	Aydin Bld. Spor	3 : 0	
+F	Trabzonspor	Erzurum BB	0 : 0	
+F	Goztepe	Konyaspor	3 : 2	
+F	Kasimpasa	Basaksehir	2 : 1	
+V	Ankara Karayollari	Halkbank	3 : 2	
+F	Sivasspor	Kasimpasa	0 : 3	
+B	Gaziantep	Sakarya BB	83 : 58	
+B	Buyukcekmece	Anadolu Efes	72 : 90	
+F	Antalyaspor	Besiktas	2 : 6	
+V	Thy	Vakifbank	0 : 3	
+B	Besiktas	Buyukcekmece	90 : 84	
+B	Anadolu Efes	Galatasaray	92 : 82	
+V	Nilufer Bld.	Halkbank	3 : 2	
+F	Besiktas	Bursaspor	2 : 0	
+B	Galatasaray	Banvit	86 : 76	
+F	Kasimpasa	Erzurum BB	2 : 1	
+F	Ankaragucu	Trabzonspor	2 : 2	
+V	Vakifbank	Aydin Bld. Spor	3 : 1	
+F	Basaksehir	Bursaspor	3 : 0	
+F	Bursaspor	Fenerbahce	1 : 1	
+F	Yeni Malatyaspor	Galatasaray	2 : 0	
+F	Goztepe	Kayserispor	2 : 0	
+F	Fenerbahce	Bursaspor	2 : 1	
+V	Aydin Bld. Spor	Ankara Karayollari	3 : 0	
+B	Tofas	Turk Telekom	85 : 82	
+B	Anadolu Efes	Besiktas	86 : 90	
+F	Besiktas	Erzurum BB	1 : 1	
+B	Pinar Karsiyaka	Galatasaray	78 : 75	
+B	Banvit	Afyon Belediye	72 : 71	
+F	Bursaspor	Sivasspor	3 : 2	
+F	Antalyaspor	Kayserispor	0 : 0	
+B	Turk Telekom	Istanbul BB	89 : 84	
+F	Akhisarspor	Kasimpasa	2 : 3	
+F	Fenerbahce	Alanyaspor	2 : 0	
+F	Trabzonspor	Goztepe	1 : 2	
+B	Buyukcekmece	Bahcesehir Kol.	103 : 106
+F	Besiktas	Goztepe	1 : 0	
+F	Basaksehir	Kasimpasa	2 : 0	
+B	Istanbul BB	Tofas	82 : 87	
+F	Alanyaspor	Bursaspor	1 : 0	
+B	Pinar Karsiyaka	Besiktas	89 : 87
+V	Eczacibasi	Ankara Karayollari	3 : 0	
+B	Anadolu Efes	Buyukcekmece	98 : 81	
+B	Besiktas	Fenerbahce	58 : 79	
+B	Darussafaka	Tofas	78 : 82	
+F	Besiktas	Galatasaray	1 : 0	
+B	Turk Telekom	Anadolu Efes	76 : 84	
+F	Alanyaspor	Sivasspor	2 : 0	
+F	Konyaspor	Erzurum BB	3 : 2	
+V	Canakkale	Besiktas	1 : 3	
+F	Bursaspor	Galatasaray	2 : 3	
+F	Basaksehir	Antalyaspor	4 : 0	
+V	Besiktas	Eczacibasi	0 : 3	
+F	Konyaspor	Fenerbahce	0 : 1	
+V	Nilufer Bld.	Vakifbank	0 : 3	
+F	Bursaspor	Kayserispor	0 : 0	
+B	Turk Telekom	Pinar Karsiyaka	73 : 56	
+B	Sakarya BB	Afyon Belediye	57 : 93	
+F	Galatasaray	Yeni Malatyaspor	3 : 0	
+F	Antalyaspor	Goztepe	1 : 0	
+B	Banvit	Gaziantep	74 : 82	
+F	Sivasspor	Yeni Malatyaspor	2 : 0	
+F	Rizespor	Basaksehir	1 : 2	
+B	Sakarya BB	Gaziantep	75 : 67	
+B	Afyon Belediye	Pinar Karsiyaka	89 : 86	
+F	Kasimpasa	Trabzonspor	2 : 2	
+V	Halkbank	Galatasaray	1 : 3	
+V	Galatasaray	Nilufer Bld.	3 : 1	
+F	Bursaspor	Antalyaspor	0 : 2	
+F	Sivasspor	Bursaspor	2 : 0	
+V	Aydin Bld. Spor	Halkbank	3 : 0	
+B	Darussafaka	Sakarya BB	82 : 57	
+F	Alanyaspor	Erzurum BB	2 : 1	
+V	Vakifbank	Nilufer Bld.	3 : 0	
+F	Akhisarspor	Goztepe	1 : 0	
+V	Canakkale	Galatasaray	0 : 3	
+V	Canakkale	Aydin Bld. Spor	0 : 3	
+B	Besiktas	Bahcesehir Kol.	80 : 78	
+B	Galatasaray	Darussafaka	64 : 80	
+V	Thy	Fenerbahce	0 : 3	
+B	Bahcesehir Kol.	Istanbul BB	103 : 86	
+V	Eczacibasi	Vakifbank	3 : 1	
+V	Fenerbahce	Vakifbank	2 : 3	
+B	Bahcesehir Kol.	Sakarya BB	87 : 83	
+F	Bursaspor	Rizespor	0 : 2	
+B	Istanbul BB	Darussafaka	87 : 81	
+F	Alanyaspor	Antalyaspor	0 : 1	
+F	Akhisarspor	Ankaragucu	0 : 0	
+F	Ankaragucu	Yeni Malatyaspor	1 : 0	
+V	Vakifbank	Galatasaray	3 : 0	
+B	Bahcesehir Kol.	Afyon Belediye	88 : 79	
+V	Besiktas	Beylikduzu	2 : 3	
+B	Darussafaka	Besiktas	73 : 74	
+F	Sivasspor	Kayserispor	1 : 3	
+F	Rizespor	Erzurum BB	0 : 0	
+V	Thy	Besiktas	3 : 1	
+V	Canakkale	Halkbank	3 : 0	
+B	Pinar Karsiyaka	Fenerbahce	81 : 88	
+B	Turk Telekom	Buyukcekmece	105 : 86	
+F	Konyaspor	Bursaspor	1 : 1	
+B	Galatasaray	Tofas	76 : 75	
+B	Gaziantep	Galatasaray	71 : 67	
+B	Galatasaray	Buyukcekmece	93 : 85	
+F	Besiktas	Konyaspor	3 : 2	
+B	Pinar Karsiyaka	Banvit	80 : 74	
+B	Tofas	Afyon Belediye	95 : 74	
+B	Fenerbahce	Darussafaka	91 : 61	
+B	Pinar Karsiyaka	Istanbul BB	86 : 93	
+F	Sivasspor	Alanyaspor	1 : 0	
+V	Besiktas	Nilufer Bld.	2 : 3	
+B	Sakarya BB	Istanbul BB	82 : 77	
+B	Fenerbahce	Turk Telekom	87 : 64	
+B	Fenerbahce	Pinar Karsiyaka	80 : 72	
+F	Goztepe	Galatasaray	0 : 1	
+V	Galatasaray	Halkbank	3 : 0	
+F	Bursaspor	Besiktas	1 : 1	
+F	Goztepe	Fenerbahce	1 : 0	
+F	Alanyaspor	Trabzonspor	1 : 0	
+V	Fenerbahce	Beylikduzu	3 : 0	
+V	Halkbank	Aydin Bld. Spor	0 : 3	
+B	Fenerbahce	Anadolu Efes	86 : 79
+V	Beylikduzu	Eczacibasi	0 : 3	
+B	Buyukcekmece	Darussafaka	76 : 69	
+V	Vakifbank	Besiktas	3 : 2	
+B	Buyukcekmece	Banvit	71 : 100	
+F	Antalyaspor	Basaksehir	0 : 1	
+F	Sivasspor	Akhisarspor	2 : 1	
+B	Banvit	Tofas	90 : 89	
+B	Darussafaka	Istanbul BB	93 : 65	
+B	Istanbul BB	Galatasaray	69 : 77	
+F	Bursaspor	Trabzonspor	0 : 1	
+B	Anadolu Efes	Sakarya BB	86 : 96	
+F	Goztepe	Trabzonspor	1 : 3	
+F	Kayserispor	Bursaspor	1 : 1	
+F	Akhisarspor	Konyaspor	0 : 0	
+F	Alanyaspor	Kayserispor	5 : 0	
+F	Galatasaray	Bursaspor	1 : 1	
+B	Gaziantep	Tofas	66 : 79	
+B	Fenerbahce	Besiktas	78 : 73	
+F	Ankaragucu	Kayserispor	3 : 1	
+B	Pinar Karsiyaka	Sakarya BB	93 : 63	
+F	Trabzonspor	Galatasaray	4 : 0	
+B	Tofas	Buyukcekmece	97 : 83	
+F	Akhisarspor	Besiktas	0 : 3	
+F	Kasimpasa	Kayserispor	0 : 3	
+V	Halkbank	Besiktas	1 : 3	
+B	Bahcesehir Kol.	Anadolu Efes	81 : 87	
+B	Afyon Belediye	Fenerbahce	72 : 96	
+F	Ankaragucu	Goztepe	0 : 3	
+V	Beylikduzu	Aydin Bld. Spor	3 : 1	
+F	Trabzonspor	Konyaspor	3 : 0	
+B	Afyon Belediye	Turk Telekom	77 : 79	
+F	Kayserispor	Antalyaspor	2 : 0	
+F	Rizespor	Ankaragucu	1 : 1	
+F	Rizespor	Goztepe	1 : 0	
+F	Sivasspor	Ankaragucu	4 : 0	
+F	Galatasaray	Ankaragucu	6 : 0	
+B	Anadolu Efes	Bahcesehir Kol.	86 : 73	
+B	Buyukcekmece	Turk Telekom	80 : 77	
+B	Gaziantep	Fenerbahce	55 : 67	
+V	Ankara Karayollari	Nilufer Bld.	3 : 1	
+F	Akhisarspor	Basaksehir	0 : 3	
+V	Ankara Karayollari	Eczacibasi	0 : 3	
+V	Aydin Bld. Spor	Nilufer Bld.	2 : 3	
+B	Turk Telekom	Galatasaray	87 : 81	
+F	Ankaragucu	Galatasaray	1 : 3	
+V	Vakifbank	Eczacibasi	3 : 0	
+B	Fenerbahce	Gaziantep	84 : 67	
+V	Fenerbahce	Eczacibasi	0 : 3	
+B	Sakarya BB	Buyukcekmece	73 : 69	
+B	Gaziantep	Anadolu Efes	65 : 66	
+F	Basaksehir	Fenerbahce	2 : 1	
+V	Eczacibasi	Halkbank	3 : 0	
+B	Bahcesehir Kol.	Fenerbahce	77 : 84	
+V	Aydin Bld. Spor	Thy	3 : 0	
+F	Bursaspor	Alanyaspor	2 : 0	
+B	Istanbul BB	Fenerbahce	86 : 103	
+B	Bahcesehir Kol.	Galatasaray	83 : 78	
+B	Besiktas	Galatasaray	72 : 74	
+F	Goztepe	Bursaspor	0 : 0	
+F	Erzurum BB	Akhisarspor	2 : 1	
+F	Rizespor	Alanyaspor	1 : 1	
+B	Tofas	Gaziantep	77 : 67	
+B	Bahcesehir Kol.	Turk Telekom	78 : 84
+V	Thy	Beylikduzu	3 : 0	
+B	Turk Telekom	Sakarya BB	76 : 53	
+F	Kayserispor	Besiktas	2 : 2	
+F	Galatasaray	Konyaspor	1 : 1	
+F	Erzurum BB	Konyaspor	1 : 2	
+F	Rizespor	Antalyaspor	1 : 1	
+F	Kayserispor	Akhisarspor	1 : 0	
+F	Antalyaspor	Akhisarspor	1 : 2	
+F	Alanyaspor	Goztepe	1 : 0	
+V	Ankara Karayollari	Fenerbahce	0 : 3	
+B	Darussafaka	Galatasaray	79 : 84	
+B	Tofas	Banvit	88 : 83	
+F	Trabzonspor	Basaksehir	2 : 4	
+F	Antalyaspor	Ankaragucu	2 : 4	
+F	Galatasaray	Sivasspor	4 : 2	
+B	Afyon Belediye	Istanbul BB	74 : 76	
+F	Fenerbahce	Kasimpasa	2 : 2	
+F	Bursaspor	Basaksehir	0 : 0	
+B	Pinar Karsiyaka	Gaziantep	82 : 81	
+B	Afyon Belediye	Darussafaka	93 : 96	
+B	Darussafaka	Gaziantep	62 : 63	
+V	Eczacibasi	Canakkale	3 : 0	
+F	Akhisarspor	Alanyaspor	3 : 1	
+V	Vakifbank	Halkbank	3 : 0	
+B	Tofas	Besiktas	89 : 79	
+F	Besiktas	Trabzonspor	2 : 2	
+F	Ankaragucu	Akhisarspor	1 : 0	
+V	Thy	Canakkale	3 : 2	
+F	Trabzonspor	Alanyaspor	0 : 2	
+F	Galatasaray	Goztepe	1 : 0	
+F	Yeni Malatyaspor	Kayserispor	1 : 1	
+F	Ankaragucu	Alanyaspor	0 : 2	
+V	Eczacibasi	Aydin Bld. Spor	3 : 1	
+B	Buyukcekmece	Pinar Karsiyaka	91 : 79	
+V	Nilufer Bld.	Eczacibasi	0 : 3	
+B	Anadolu Efes	Darussafaka	75 : 72	
+F	Konyaspor	Ankaragucu	2 : 0	
+F	Sivasspor	Konyaspor	0 : 0	
+F	Konyaspor	Goztepe	1 : 1	
+F	Rizespor	Besiktas	2 : 7	
+F	Akhisarspor	Rizespor	1 : 1	
+F	Alanyaspor	Galatasaray	1 : 1	
+B	Gaziantep	Buyukcekmece	76 : 60	
+B	Pinar Karsiyaka	Afyon Belediye	86 : 70	
+F	Ankaragucu	Fenerbahce	1 : 1	
+B	Pinar Karsiyaka	Tofas	55 : 82	
+B	Galatasaray	Sakarya BB	102 : 65	
+B	Fenerbahce	Sakarya BB	89 : 64	
+F	Besiktas	Basaksehir	2 : 1	
+V	Beylikduzu	Besiktas	0 : 3	
+B	Buyukcekmece	Gaziantep	69 : 93	
+B	Pinar Karsiyaka	Bahcesehir Kol.	103 : 77	
+F	Sivasspor	Trabzonspor	1 : 1	
+F	Kayserispor	Rizespor	2 : 2	
+F	Akhisarspor	Galatasaray	3 : 0	
+F	Erzurum BB	Galatasaray	1 : 1	
+B	Turk Telekom	Fenerbahce	72 : 80	
+V	Besiktas	Fenerbahce	2 : 3	
+F	Galatasaray	Antalyaspor	5 : 0	
+V	Nilufer Bld.	Canakkale	3 : 0	
+B	Anadolu Efes	Fenerbahce	67 : 65	
+B	Gaziantep	Darussafaka	62 : 65	
+F	Alanyaspor	Besiktas	0 : 0	
+V	Eczacibasi	Thy	3 : 0	
+B	Gaziantep	Besiktas	63 : 56	
+V	Vakifbank	Fenerbahce	3 : 0	
+V	Beylikduzu	Nilufer Bld.	1 : 3	
+B	Tofas	Darussafaka	80 : 72	
+B	Banvit	Pinar Karsiyaka	84 : 75	
+F	Yeni Malatyaspor	Besiktas	1 : 2	
+B	Pinar Karsiyaka	Darussafaka	100 : 84	
+F	Ankaragucu	Kasimpasa	3 : 0	
+B	Sakarya BB	Pinar Karsiyaka	64 : 87	
+F	Kasimpasa	Yeni Malatyaspor	3 : 0	
+F	Fenerbahce	Galatasaray	1 : 1	
+F	Alanyaspor	Akhisarspor	2 : 1	
+F	Galatasaray	Fenerbahce	2 : 2	
+F	Antalyaspor	Konyaspor	3 : 3	
+V	Thy	Galatasaray	0 : 3	
+V	Halkbank	Thy	0 : 3	
+F	Trabzonspor	Ankaragucu	1 : 0	
+B	Buyukcekmece	Tofas	72 : 102	
+B	Anadolu Efes	Afyon Belediye	97 : 78	
+V	Halkbank	Eczacibasi	0 : 3	
+F	Fenerbahce	Kayserispor	2 : 3	
+V	Canakkale	Ankara Karayollari	2 : 3	
+F	Kasimpasa	Sivasspor	1 : 3	
+F	Yeni Malatyaspor	Goztepe	3 : 2	
+F	Erzurum BB	Yeni Malatyaspor	1 : 3	
+V	Canakkale	Fenerbahce	0 : 3	
+F	Rizespor	Kayserispor	3 : 0	
+V	Fenerbahce	Aydin Bld. Spor	3 : 0	
+F	Besiktas	Kayserispor	2 : 0	
+V	Halkbank	Nilufer Bld.	2 : 3	
+V	Besiktas	Thy	1 : 3	
+V	Nilufer Bld.	Galatasaray	0 : 3	
+F	Yeni Malatyaspor	Sivasspor	4 : 4	
+V	Thy	Ankara Karayollari	3 : 0	
+V	Fenerbahce	Nilufer Bld.	2 : 3	
+V	Aydin Bld. Spor	Vakifbank	0 : 3	
+B	Banvit	Istanbul BB	95 : 63	
+F	Konyaspor	Antalyaspor	2 : 0	
+F	Goztepe	Basaksehir	0 : 2	
+B	Banvit	Bahcesehir Kol.	93 : 84	
+B	Darussafaka	Banvit	82 : 89	
+B	Banvit	Darussafaka	65 : 82	
+F	Fenerbahce	Erzurum BB	2 : 2	
+F	Antalyaspor	Trabzonspor	1 : 1	
+F	Konyaspor	Kayserispor	0 : 1	
+V	Fenerbahce	Thy	3 : 0	
+V	Canakkale	Thy	0 : 3	
+F	Yeni Malatyaspor	Antalyaspor	2 : 0	
+F	Kasimpasa	Goztepe	3 : 1	
+V	Aydin Bld. Spor	Canakkale	2 : 3	
+V	Galatasaray	Besiktas	2 : 3	
+V	Thy	Eczacibasi	0 : 3	
+B	Tofas	Istanbul BB	73 : 61	
+V	Besiktas	Halkbank	3 : 1	
+F	Trabzonspor	Akhisarspor	2 : 1	
+F	Fenerbahce	Ankaragucu	1 : 3	
+V	Ankara Karayollari	Aydin Bld. Spor	2 : 3	
+B	Bahcesehir Kol.	Besiktas	83 : 57	
+F	Fenerbahce	Basaksehir	0 : 0	
+B	Fenerbahce	Bahcesehir Kol.	90 : 73	
+B	Istanbul BB	Anadolu Efes	80 : 93	
+B	Darussafaka	Bahcesehir Kol.	77 : 72	
+F	Trabzonspor	Fenerbahce	2 : 1	
+F	Akhisarspor	Sivasspor	1 : 1	
+B	Turk Telekom	Besiktas	74 : 66	
+V	Galatasaray	Ankara Karayollari	3 : 0	
+V	Beylikduzu	Thy	3 : 0	
+B	Besiktas	Turk Telekom	85 : 67	
+B	Gaziantep	Banvit	73 : 69	
+F	Bursaspor	Konyaspor	0 : 0	
+V	Beylikduzu	Halkbank	3 : 1	
+V	Galatasaray	Canakkale	3 : 1	
+F	Basaksehir	Besiktas	1 : 0	
+V	Besiktas	Vakifbank	0 : 3	
+F	Rizespor	Bursaspor	1 : 1	
+F	Ankaragucu	Basaksehir	0 : 1	
+F	Basaksehir	Yeni Malatyaspor	1 : 1	
+B	Istanbul BB	Banvit	74 : 71	
+F	Erzurum BB	Alanyaspor	1 : 0	
+V	Galatasaray	Fenerbahce	2 : 3	
+B	Fenerbahce	Afyon Belediye	92 : 68	
+B	Galatasaray	Istanbul BB	93 : 74	
+F	Yeni Malatyaspor	Alanyaspor	1 : 1	
+F	Kasimpasa	Besiktas	4 : 1	
+F	Yeni Malatyaspor	Rizespor	1 : 0	
+F	Galatasaray	Alanyaspor	6 : 0	
+B	Banvit	Fenerbahce	83 : 78
+V	Eczacibasi	Fenerbahce	3 : 0	
+F	Trabzonspor	Kasimpasa	4 : 2	
+F	Yeni Malatyaspor	Ankaragucu	3 : 1	
+F	Goztepe	Rizespor	2 : 0	
+V	Vakifbank	Beylikduzu	3 : 0
+F	Kasimpasa	Rizespor	0 : 1	
+F	Akhisarspor	Fenerbahce	3 : 0	
+B	Bahcesehir Kol.	Banvit	86 : 78	
+V	Eczacibasi	Beylikduzu	3 : 1	
+F	Fenerbahce	Sivasspor	2 : 1	
+F	Alanyaspor	Yeni Malatyaspor	0 : 1	
+F	Besiktas	Rizespor	4 : 1	
+F	Konyaspor	Rizespor	0 : 2	
+F	Kasimpasa	Galatasaray	1 : 4	
+V	Aydin Bld. Spor	Besiktas	1 : 3	
+B	Istanbul BB	Buyukcekmece	78 : 97	
+F	Rizespor	Fenerbahce	3 : 0	
+B	Tofas	Sakarya BB	89 : 72	
+B	Buyukcekmece	Sakarya BB	92 : 82	
+F	Erzurum BB	Besiktas	1 : 3	
+F	Besiktas	Fenerbahce	3 : 3	
+B	Turk Telekom	Banvit	66 : 87	
+F	Fenerbahce	Goztepe	2 : 0	
+V	Canakkale	Beylikduzu	1 : 3	
+B	Afyon Belediye	Galatasaray	69 : 77	
+F	Erzurum BB	Goztepe	2 : 1	
+F	Trabzonspor	Bursaspor	1 : 1	
+F	Trabzonspor	Antalyaspor	4 : 1	
+F	Yeni Malatyaspor	Basaksehir	0 : 2	
+F	Akhisarspor	Erzurum BB	1 : 1	
+F	Sivasspor	Fenerbahce	0 : 0	
+F	Sivasspor	Goztepe	2 : 0	
+V	Fenerbahce	Canakkale	3 : 0	
+V	Halkbank	Canakkale	1 : 3	
+F	Akhisarspor	Bursaspor	2 : 4	
+V	Ankara Karayollari	Beylikduzu	1 : 3	
+V	Halkbank	Beylikduzu	1 : 3	
+V	Ankara Karayollari	Besiktas	3 : 2	
+F	Konyaspor	Alanyaspor	2 : 0	
+B	Gaziantep	Turk Telekom	85 : 79	
+B	Buyukcekmece	Besiktas	69 : 79	
+B	Gaziantep	Bahcesehir Kol.	65 : 63	
+B	Fenerbahce	Buyukcekmece	107 : 70	
+F	Kayserispor	Sivasspor	2 : 0	
+B	Banvit	Anadolu Efes	62 : 86	
+F	Antalyaspor	Galatasaray	0 : 1	
+F	Besiktas	Antalyaspor	2 : 3	
+B	Galatasaray	Anadolu Efes	70 : 73	
+V	Nilufer Bld.	Besiktas	1 : 3	
+F	Basaksehir	Galatasaray	1 : 1	
+B	Galatasaray	Besiktas	93 : 87	
+B	Istanbul BB	Besiktas	74 : 82	
+F	Erzurum BB	Ankaragucu	0 : 1	
+V	Aydin Bld. Spor	Fenerbahce	2 : 3	
+F	Besiktas	Yeni Malatyaspor	2 : 1	
+F	Galatasaray	Erzurum BB	1 : 0	
+B	Bahcesehir Kol.	Tofas	79 : 77	
+F	Erzurum BB	Kasimpasa	1 : 1	
+F	Galatasaray	Kasimpasa	4 : 1	
+V	Besiktas	Galatasaray	0 : 3	
+F	Antalyaspor	Rizespor	2 : 1	
+F	Kayserispor	Yeni Malatyaspor	0 : 0	
+F	Basaksehir	Trabzonspor	2 : 0	
+B	Sakarya BB	Banvit	67 : 75	
+B	Sakarya BB	Bahcesehir Kol.	84 : 71	
+B	Turk Telekom	Tofas	85 : 72	
+F	Goztepe	Alanyaspor	3 : 2	
+V	Ankara Karayollari	Vakifbank	0 : 3	
+B	Bahcesehir Kol.	Gaziantep	86 : 92	
+F	Antalyaspor	Fenerbahce	0 : 0	
+F	Kayserispor	Konyaspor	0 : 2	
+B	Istanbul BB	Afyon Belediye	75 : 70	
+V	Beylikduzu	Ankara Karayollari	3 : 1	
+B	Pinar Karsiyaka	Buyukcekmece	86 : 81	
+B	Besiktas	Anadolu Efes	92 : 95	
+F	Antalyaspor	Kasimpasa	1 : 0	
+V	Vakifbank	Ankara Karayollari	3 : 2	
+B	Bahcesehir Kol.	Darussafaka	92 : 85	
+B	Gaziantep	Istanbul BB	80 : 69	
+B	Anadolu Efes	Gaziantep	88 : 81	
+V	Beylikduzu	Vakifbank	0 : 3	
+F	Trabzonspor	Rizespor	4 : 1	
+B	Darussafaka	Turk Telekom	94 : 87	
+V	Beylikduzu	Fenerbahce	1 : 3	
+V	Halkbank	Ankara Karayollari	0 : 3	
+F	Rizespor	Kasimpasa	2 : 3	
+F	Antalyaspor	Alanyaspor	3 : 0	
+F	Basaksehir	Sivasspor	0 : 1	
+F	Trabzonspor	Sivasspor	3 : 1	
+B	Banvit	Galatasaray	75 : 80	
+B	Afyon Belediye	Sakarya BB	91 : 70	
+B	Galatasaray	Bahcesehir Kol.	88 : 73	
+F	Konyaspor	Sivasspor	1 : 1	
+B	Bahcesehir Kol.	Buyukcekmece	92 : 78	
+B	Afyon Belediye	Bahcesehir Kol.	70 : 80	
+F	Sivasspor	Rizespor	1 : 1	
+F	Fenerbahce	Besiktas	1 : 1	
+F	Kayserispor	Basaksehir	1 : 1	
+V	Eczacibasi	Besiktas	3 : 0	
+B	Pinar Karsiyaka	Turk Telekom	86 : 89	
+F	Yeni Malatyaspor	Konyaspor	0 : 1	
+F	Alanyaspor	Basaksehir	1 : 1	
+B	Darussafaka	Afyon Belediye	85 : 67	
+F	Alanyaspor	Ankaragucu	0 : 2	
+F	Bursaspor	Kasimpasa	1 : 2	
+B	Galatasaray	Afyon Belediye	98 : 103
+B	Besiktas	Istanbul BB	87 : 83	
+F	Rizespor	Akhisarspor	3 : 1	
+V	Beylikduzu	Canakkale	3 : 0	
+F	Kayserispor	Fenerbahce	1 : 0	
+F	Bursaspor	Yeni Malatyaspor	1 : 1	
+F	Kasimpasa	Ankaragucu	2 : 1	
+B	Besiktas	Banvit	95 : 75	
+F	Galatasaray	Akhisarspor	1 : 0	
+F	Erzurum BB	Sivasspor	4 : 2	

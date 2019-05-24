@@ -1,0 +1,6 @@
+Player 2;5
+Player 1;5
+Player 2;10
+Player 2;10
+Player 1;10
+Player 1;10

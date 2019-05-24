@@ -1,0 +1,2 @@
+javac -cp *.jar *.java
+java -cp json-simple-1.1.1.jar:. Main command.txt

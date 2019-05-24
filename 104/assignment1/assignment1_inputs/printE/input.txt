@@ -1,0 +1,3 @@
+create -n bbm101.txt -t Basic concepts of computer programming. Problem formalization and developing algorithms. File operations. Pointers.
+create -t The laboratory includes three or more practical assignments. The students are expected to present a well-designed documentary report with their assignments. -n bbm103.doc
+print -e doc

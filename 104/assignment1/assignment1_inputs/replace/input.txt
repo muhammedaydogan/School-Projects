@@ -1,0 +1,6 @@
+create -n bbm101.txt -t Basic concepts of computer programming. Problem formalization and developing algorithms.
+create -n bbm102.doc -t Basic concepts of object oriented programming. Introduction to learning of an object oriented programming language.
+replace -n bbm101.txt -ow program -nw lesson
+replace -n bbm102.doc -ow object -nw class
+print -n bbm101.txt -t
+print -n bbm102.doc -t

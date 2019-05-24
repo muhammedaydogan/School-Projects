@@ -1,0 +1,8 @@
+create -t The laboratory includes three or more practical assignments. The students are expected to present a well-designed documentary report with their assignments. -n bbm103.txt
+create -t The laboratory includes four or more practical assignments. The students are expected to present a well-designed documentary report with their assignments. -n bbm104.doc
+remove -n bbm104.doc -s 131 -l 23
+remove -n bbm103.txt -s 29 -l 18
+print -n bbm103.txt -t
+Text: The laboratory includes three assignments. The students are expected to present a well-designed documentary report with their assignments.
+print -n bbm104.doc -t
+Text: The laboratory includes four or more practical assignments. The students are expected to present a well-designed documentary report.

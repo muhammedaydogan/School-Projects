@@ -1,0 +1,6 @@
+create -n bbm101.txt -t Basic concepts of computer programming. Problem formalization and developing algorithms. File operations. Pointers.
+create -t The laboratory includes three or more practical assignments. The students are expected to present a well-designed documentary report with their assignments. -n bbm103.txt
+create -n bbm102.doc -t Basic concepts of object oriented programming. Introduction to learning of an object oriented programming language.
+create -t The laboratory includes four or more practical assignments. The students are expected to present a well-designed documentary report with their assignments. -n bbm104.doc
+create -n bbm105.doc -t An orientation course to provide counsel to the students about the Department and Computer Engineering in general.
+print -a
